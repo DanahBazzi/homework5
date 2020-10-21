@@ -95,7 +95,6 @@ footer{
   padding: 0 0 50px 0;
   /*Your code here.*/
   /*Take a look at flex-basis*/
-  display: flex;
   flex-basis: 400px;
 
 
